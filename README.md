@@ -34,11 +34,11 @@
     This is a Mod for Fabric 1.21.8, that adds a couple tools, meant to help learn how FabricMC Works
     <br />
     <br />
-    <a href="https://github.com/thesillyboi/MCrandomstuff">View Demo</a>
+    <a href="https://github.com/addy10s/MCrandomstuff">View Demo</a>
     &middot;
-    <a href="https://github.com/thesillyboi/MCrandomstuff/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/addy10s/MCrandomstuff/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/thesillyboi/MCrandomstuff/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/addy10s/MCrandomstuff/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -111,14 +111,14 @@
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![Hatchet Recipe](https://raw.githubusercontent.com/TheSillyBoi/MCrandomstuff/3270dcb90988ed9510fd3884d3b5a6cfaafa66cf/Demos/Hatchet.png)
+![Hatchet Recipe](https://raw.githubusercontent.com/addy10s/MCrandomstuff/3270dcb90988ed9510fd3884d3b5a6cfaafa66cf/Demos/Hatchet.png)
 #### This is a Hatchet, It's similar to an axe, where you can cut trees and similar, but you can also use it on logs and planks in order to split them, ex: right clicking on a log will break it and give you four planks, and same for planks, but it'll split it into 2 slabs
 
-![Lightsaber Core Recipe](https://raw.githubusercontent.com/TheSillyBoi/MCrandomstuff/3270dcb90988ed9510fd3884d3b5a6cfaafa66cf/Demos/LightSaber_Core.png)
+![Lightsaber Core Recipe](https://raw.githubusercontent.com/addy10s/MCrandomstuff/3270dcb90988ed9510fd3884d3b5a6cfaafa66cf/Demos/LightSaber_Core.png)
 
 #### This is a Lightsaber Core, it's a crafting ingredient for making a lightsaber(which is below), nothing more, nothing less
 
-![](https://raw.githubusercontent.com/TheSillyBoi/MCrandomstuff/3270dcb90988ed9510fd3884d3b5a6cfaafa66cf/Demos/Lightsaber.png)
+![](https://raw.githubusercontent.com/addy10s/MCrandomstuff/3270dcb90988ed9510fd3884d3b5a6cfaafa66cf/Demos/Lightsaber.png)
 #### This is a Lightsaber, it's similar to a sword, so you can hit in a sweeping pattern, but you can also Dash, where if you right click on a block within 20m, it'll dash you there
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +131,7 @@
 - [ ] Allowing Enchanting of the Lightsaber and Hatchet
 
 
-See the [open issues](https://github.com/thesillyboi/MCrandomstuff/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/addy10s/MCrandomstuff/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,8 +155,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/thesillyboi/MCrandomstuff/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thesillyboi/MCrandomstuff" alt="contrib.rocks image" />
+<a href="https://github.com/addy10s/MCrandomstuff/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=addy10s/MCrandomstuff" alt="contrib.rocks image" />
 </a>
 
 
@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Addy Tennies - addy@tennies.us
 
-Project Link: [https://github.com/thesillyboi/MCrandomstuff](https://github.com/thesillyboi/MCrandomstuff)
+Project Link: [https://github.com/addy10s/MCrandomstuff](https://github.com/addy10s/MCrandomstuff)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,16 +193,16 @@ Project Link: [https://github.com/thesillyboi/MCrandomstuff](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/thesillyboi/MCrandomstuff.svg?style=for-the-badge
-[contributors-url]: https://github.com/thesillyboi/MCrandomstuff/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/thesillyboi/MCrandomstuff.svg?style=for-the-badge
-[forks-url]: https://github.com/thesillyboi/MCrandomstuff/network/members
-[stars-shield]: https://img.shields.io/github/stars/thesillyboi/MCrandomstuff.svg?style=for-the-badge
-[stars-url]: https://github.com/thesillyboi/MCrandomstuff/stargazers
-[issues-shield]: https://img.shields.io/github/issues/thesillyboi/MCrandomstuff.svg?style=for-the-badge
-[issues-url]: https://github.com/thesillyboi/MCrandomstuff/issues
-[license-shield]: https://img.shields.io/github/license/thesillyboi/MCrandomstuff.svg?style=for-the-badge
-[license-url]: https://github.com/thesillyboi/MCrandomstuff/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/addy10s/MCrandomstuff.svg?style=for-the-badge
+[contributors-url]: https://github.com/addy10s/MCrandomstuff/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/addy10s/MCrandomstuff.svg?style=for-the-badge
+[forks-url]: https://github.com/addy10s/MCrandomstuff/network/members
+[stars-shield]: https://img.shields.io/github/stars/addy10s/MCrandomstuff.svg?style=for-the-badge
+[stars-url]: https://github.com/addy10s/MCrandomstuff/stargazers
+[issues-shield]: https://img.shields.io/github/issues/addy10s/MCrandomstuff.svg?style=for-the-badge
+[issues-url]: https://github.com/addy10s/MCrandomstuff/issues
+[license-shield]: https://img.shields.io/github/license/addy10s/MCrandomstuff.svg?style=for-the-badge
+[license-url]: https://github.com/addy10s/MCrandomstuff/blob/master/LICENSE.txt
 [Java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [Java-url]: https://java.com
 
