@@ -173,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Adrian Tennies - adrian@tennies.us
+Addy Tennies - addy@tennies.us
 
 Project Link: [https://github.com/thesillyboi/MCrandomstuff](https://github.com/thesillyboi/MCrandomstuff)
 
